@@ -39,7 +39,7 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 
 /**
- * Created by mingya.wmy on 2015/8/12.
+ * Created by dean on 2019/10/25.
  */
 public class DFSUtil {
     private static final Logger LOG = LoggerFactory.getLogger(HiveReader.Job.class);

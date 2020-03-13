@@ -1,8 +1,7 @@
 package com.alibaba.datax.plugin.reader.hivereader;
 
 /**
- * @author dalizu on 2018/11/10.
- * @author xujie xiaoweiwei 2019/10/25.
+ * @author dean 2019/10/25.
  * @version v1.1
  */
 public class Key {
