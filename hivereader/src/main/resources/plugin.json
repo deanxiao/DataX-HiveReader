@@ -1,0 +1,6 @@
+{
+    "name": "hivereader",
+    "class": "com.alibaba.datax.plugin.reader.hivereader.HiveReader",
+    "description": "简单插件，有待测试验证.  原理: TODO",
+    "developer": "lizu"
+}
